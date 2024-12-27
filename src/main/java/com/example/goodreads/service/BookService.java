@@ -1,4 +1,7 @@
-package com.example.goodreads;
+package com.example.goodreads.service;
+
+import com.example.goodreads.model.Book;
+import com.example.goodreads.repository.BookRepository;
 
 import java.util.ArrayList;
 import java.util.Collection;
